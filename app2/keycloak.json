@@ -1,0 +1,7 @@
+{
+    "realm": "master",
+    "clientId": "app2-client",
+    "bearerOnly": true,
+    "serverUrl": "http://0.0.0.0:8080/auth",
+    "realmPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuG575kdDilHQKg4lLu0j1FueV9WEEVbZEkKc/EqAAzGS79TrSwh8Qt4jpEEzlGDiWkuLRJGQlMPGaOEpMOP3p4gCuay58YOWkhyw0lQtfzUU3QQnIafAo1WucOVwqwcAaIZHTpg2vggykGqqTNYnqJsDxB7In1zVlmSRdTDPkAJBDgmaVxNj0nMjIZWLlnk28MNkdWFNMdlw28RGhU0EFRMMn3eGjB1e+qW5fSH0SatXp4D+DISiC9WiuLuoVQcFnW/FghKh4qx/gJc3W0PSy1vVVo2poDHEu24Ur8CKzKbWGHcBhENJB/VdkBh4qYnJnXS/P4GPLfBQNYx4Ykt3AQIDAQAB"
+}

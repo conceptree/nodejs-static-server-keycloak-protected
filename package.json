@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-static-server-keycloak-protected",
+  "version": "1.0.0",
+  "description": "A simple example of two apps serving and sharing static files between each other under keycloak authorization protection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app1/index.js && node app2/index.js"
+  },
+  "author": "Nuno Rodrigues",
+  "license": "MIT"
+}
